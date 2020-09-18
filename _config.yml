@@ -3,6 +3,7 @@ name:               "mieczkowski Lab"
 title:              "Mieczkowski lab at Medical University in Gdansk"
 description:        "this is a page for Jakub Mieczkowski lab, we are computational biology lab at the Medical University in Gdansk"
 
+baseurl: https://bplisz.github.io/jakubmie.github.io/
 
 # Highlighter
 highlighter:        rouge
