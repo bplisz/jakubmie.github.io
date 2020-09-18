@@ -12,15 +12,15 @@ highlighter:        rouge
 nav:
 
   - name:           "research"
-    href:           "/research"
+    href:           "research"
   - name:           "team"
-    href:           "/team"
+    href:           "team"
   - name:           "publications"
-    href:           "/publications"
+    href:           "publications"
   - name:           "resources"
-    href:           "/resources"
+    href:           "resources"
   - name:           "contact & join"
-    href:           "/contactjoin"
+    href:           "contactjoin"
 
 # Sass
 sass:
